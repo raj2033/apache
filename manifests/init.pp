@@ -1,4 +1,4 @@
-ass apache {
+class apache {
 	include apache::package
 	include apache::config
 	include apache::service
